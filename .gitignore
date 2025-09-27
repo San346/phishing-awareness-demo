@@ -1,0 +1,35 @@
+# Python (if you use scripts)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+venv/
+env/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs & cache
+*.log
+.cache/
+
+# Office/Docs temporary files
+~$*.docx
+~$*.pptx
+
+# Videos or large demo files
+*.mp4
+*.mov
+*.avi
+
+# Temporary or backup files
+*.tmp
+*.swp
+*.bak
+
+# Node (if you try any JS demo)
+node_modules/
